@@ -15,6 +15,9 @@
 The BikeStores dataset used for this project comprises nine tables: Brands, Category, Customers, Order_Items, Orders, Products, Staffs, Stocks, and Stores.
 Each table contains key fields relevant to its respective domain, such as product details, customer information, and sales order data.
 
+
+![Screenshot (12)](https://github.com/DENNIS-SHANANA/BikeStores-Dataset-Analysis/assets/163293088/528a32ef-6ea4-40f8-a568-16b3cd8b6632)
+
 ### Data Source
 Dataset Source: Kaggle [Download here](https://www.kaggle.com/BikeStores)
 
